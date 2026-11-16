@@ -33,22 +33,3 @@ Explain Input, Processing, Output and Storage (IPOS), identify hardware and soft
 | ATM | Banking services | Card and PIN | Cash / receipt / screen message |
 | Traffic signal controller | Controls traffic lights | Sensor or timer data | Red, amber and green lights |
 | Smart TV | Plays digital media | Remote-control command | Picture and sound |
-
-## 3. Commands / tools used
-No Terminal command is required for these tables. Tools: computer settings, observation and this Markdown table.
-
-## 4. My understanding
-IPOS describes a common flow in a computer system: data enters as input, is processed, results are presented as output, and information can be saved in storage. Hardware is the physical equipment. Software is the set of programs and instructions that run on it.
-
-## 5. Difficulties faced
-[FILL IN based on your own work.]
-
-## 6. How I resolved them
-[FILL IN based on your own work.]
-
-## 7. Evidence / files
-This README contains the three required tables. Add privacy-safe screenshots only if useful.
-
-## 8. Commit details
-Suggested commit: `Complete computer basics and IPOS mission`
-Actual commit hash / push status: `[FILL IN]`.

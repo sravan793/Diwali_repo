@@ -8,11 +8,10 @@ Fill in these observations from your own Mac. Do not publish account names, seri
 
 | Observation | My result |
 |---|---|
-| Operating system and version | [FILL IN from About This Mac] |
-| Available storage | [FILL IN; do not include private file names] |
-| Current account | [Do not publish the account name; write “checked locally”] |
-| Process snapshot | [FILL IN a safe observation, e.g. number of processes viewed] |
-| Example process and what it does | [FILL IN a general app/process name] |
+| Operating system and version | MacOS,i0s27.02 |
+| Available storage |1tb |
+| Current account | sravan |
+| Example process and what it does | whatsapp helps in receiving messages |
 
 ### Process and PID
 A process is a program that is currently running. A PID (process ID) is a number the operating system assigns to identify a running process.
@@ -35,20 +34,7 @@ A process is a program that is currently running. A PID (process ID) is a number
 6. Security and permissions — controls access to resources.
 
 ## 3. Commands / tools used
-Use macOS settings for About This Mac and Storage. You may inspect processes with Activity Monitor. If you use Terminal, record only safe commands and redact private output. `[FILL IN exact tools used]`.
+Use macOS settings for About This Mac and Storage. You may inspect processes with Activity Monitor. If you use Terminal, record only safe commands and redact private output.
 
 ## 4. My understanding
 The operating system acts as the manager between applications and computer hardware. It manages processes, memory, files, devices and permissions.
-
-## 5. Difficulties faced
-[FILL IN actual difficulties.]
-
-## 6. How I resolved them
-[FILL IN actual steps.]
-
-## 7. Evidence / files
-Add a screenshot only after hiding account names, serial numbers, device names and other private details.
-
-## 8. Commit details
-Suggested commit: `Document operating system and file management`
-Actual commit hash / push status: `[FILL IN]`.

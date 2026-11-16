@@ -6,23 +6,6 @@ Practise basic Terminal commands and safely create, display, copy and rename fil
 ## 2. Work completed
 Use a practice directory inside the repository only. Suggested commands:
 
-```bash
-pwd
-ls
-ls -la
-cd ..
-mkdir terminal-practice
-cd terminal-practice
-touch notes.txt
-echo "First line" > notes.txt
-echo "Second line" >> notes.txt
-cat notes.txt
-cp notes.txt notes-backup.txt
-mv notes-backup.txt notes-copy.txt
-ls -lh
-ls -la | head
-```
-
 **Important:** Run `mkdir terminal-practice` from the repository root. If the folder already exists, use `cd terminal-practice` rather than creating it again. The `>` operator replaces a file's contents; `>>` appends to the end.
 
 ### Command explanations
@@ -46,22 +29,3 @@ ls -la | head
 - **`pwd` and listing:** `pwd` tells me where I am; `ls` shows what is in the current directory.
 
 Homebrew: `[If already installed, record `brew --version` and `brew list`. Do not install or uninstall anything just for this task.]`
-
-## 3. Commands / tools used
-Record the commands you actually ran and any output or errors: `[FILL IN]`.
-
-## 4. My understanding
-The Terminal lets me interact with files and folders by typing commands. I should check my current location with `pwd` before changing or copying files, and keep practice inside the assignment repository.
-
-## 5. Difficulties faced
-[FILL IN actual errors or “None”.]
-
-## 6. How I resolved them
-[FILL IN what you actually did.]
-
-## 7. Evidence / files
-Save a privacy-safe copy of the practice output here or add a short note. Do not include your computer username or private file paths in public screenshots.
-
-## 8. Commit details
-Suggested commit: `Practise Terminal commands and file management`
-Actual commit hash / push status: `[FILL IN]`.

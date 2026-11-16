@@ -25,22 +25,3 @@ Hello from Python
 | Advantage | Can produce fast executable programs after compilation | Convenient for testing and interactive development |
 
 In practice, language implementations can combine compilation and interpretation techniques. This table is a beginner-level comparison.
-
-## 3. Commands / tools used
-`python3 mission-04-programs/hello.py` — `[VERIFY by running it and record what happened]`.
-
-## 4. My understanding
-A program is a set of instructions. Python code can be run using the Python 3 interpreter. A compiler and an interpreter are different ways of translating or executing program instructions.
-
-## 5. Difficulties faced
-[FILL IN actual difficulties.]
-
-## 6. How I resolved them
-[FILL IN actual steps.]
-
-## 7. Evidence / files
-- `hello.py`
-
-## 8. Commit details
-Suggested commit: `Run first Python program and compare translators`
-Actual commit hash / push status: `[FILL IN]`.

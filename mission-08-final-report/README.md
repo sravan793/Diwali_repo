@@ -36,20 +36,7 @@ Update this table only after checking each mission.
 - [ ] Public repository URL submitted through instructor's form.
 
 ## 3. Commands / tools used
-`git status`, `git log --oneline`, GitHub repository page and the instructor's submission form. Record actual use: `[FILL IN]`.
+`git status`, `git log --oneline`, GitHub repository page and the instructor's submission form.
 
 ## 4. My understanding
 The assignment combines computer fundamentals with practical work. A clear repository, accurate observations and separate commits make the work easier to review.
-
-## 5. Difficulties faced
-[FILL IN the real difficulties from the assignment.]
-
-## 6. How I resolved them
-[FILL IN the actual solutions.]
-
-## 7. Evidence / files
-- Public GitHub repository URL: `[FILL IN]`
-- Submission form completed: `[YES / NO — only mark yes after submitting]`
-
-## 8. Commit details
-Final report commit hash and push status: `[FILL IN]`.

@@ -39,16 +39,3 @@ My actual observations: `[FILL IN; redact IP addresses and private network infor
 
 ## 4. My understanding
 A network allows devices to exchange data. DNS helps people use domain names instead of remembering IP addresses. Protocols define how the communication happens.
-
-## 5. Difficulties faced
-[FILL IN actual difficulties, such as a timeout or DNS lookup failure.]
-
-## 6. How I resolved them
-[FILL IN what you actually tried. Do not claim success if the network check failed.]
-
-## 7. Evidence / files
-This README contains the concepts and website-request steps. Add only privacy-safe command observations.
-
-## 8. Commit details
-Suggested commit: `Explain networking concepts and website communication`
-Actual commit hash / push status: `[FILL IN]`.
